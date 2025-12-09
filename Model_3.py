@@ -45,3 +45,6 @@ print("Ridge Coeff : ",RidgeObj.coef_)
 lasso= Lasso(alpha=1)
 lasso.fit(x,y)
 print("Lasso Coeff : ",lasso.coef_)
+
+
+print("hello gurs this is model 3rd")
